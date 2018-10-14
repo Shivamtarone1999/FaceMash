@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta http-equiv="content-type" content="text/html"; charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <title> THE FACEMASH</title>
+</head>
+<body>
+    <header>
+    <h1>THE FACEMASH</h1>
+    </header>
+    <p id="first">Were we let in for our looks? NO . Will we be judge on them? YES</p>
+    <p id="second">Who's Hotter ?  Click to Choose.</p>
+    <div id="dual">
+       <div class="faces">
+        <img src="image4.jpg" class="photos" alt="Image1" data-token"abc" data-score"2772" width="266" height="400"/>
+        <ul>
+        <li>Image1</li>
+        <li>Score:1772</li>
+        </ul>
+        </div>
+        <p id="middle">OR</p>
+       <div class="faces">
+         <img src="image2.jpg" class="photos" alt="Image2" data-token"def" data-score"2542" width="266" height="400"/>
+        <ul>
+        <li>Image2</li>
+        <li>Score:1542</li>
+        </ul>
+        </div>
+    </div>
+    <footer>Picture from <a href="https://www.google.com" target="_blank">google.com</a></footer>
+    
+    </body>
+</html>
